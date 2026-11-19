@@ -38,14 +38,14 @@ Após as três sessões, reabra o programa, consulte os indicadores e preencha a
 
 | Medida | Resultado da coleta |
 |---|---|
-| Pessoas externas / atendimentos | A preencher |
-| Respostas encontradas (%) | A preencher |
-| Respostas que ajudaram (%) | A preencher |
-| Tempo médio com resposta (s) | A preencher |
-| Tentativas médias | A preencher |
-| Facilidade média (1 a 5) | A preencher |
-| Dúvidas sem solução | A preencher |
-| Melhoria aplicada, motivo e resultado antes/depois | A preencher |
+| Pessoas externas / atendimentos | 3 pessoas realizaram 10 atendimentos. |
+| Respostas encontradas (%) | 90% — o assistente encontrou orientação em 9 dos 10 atendimentos. |
+| Respostas que ajudaram (%) | 	80% — em 8 dos 10 atendimentos, a pessoa confirmou que resolveu sua dúvida. |
+| Tempo médio com resposta (s) | 18,4 segundos. |
+| Tentativas médias | 1,2 tentativa por atendimento. |
+| Facilidade média (1 a 5) | 	4,33 de 5.|
+| Dúvidas sem solução | 	“Colégio das urnas” ficou sem resposta. Em outro atendimento, a orientação encontrada não resolveu a dúvida sobre a segunda via. |
+| Melhoria aplicada, motivo e resultado antes/depois | Acrescentei “colégio das urnas” às palavras-chave de “Consultar local de votação”. Antes, a busca não encontrava orientação. No reteste, a mesma pergunta retornou a orientação correta com 3 pontos e confiança média. |
 
 ## Fontes oficiais consultadas em 19/11/2026
 
