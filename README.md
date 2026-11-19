@@ -58,4 +58,4 @@ Após as três sessões, reabra o programa, consulte os indicadores e preencha a
 
 ## Vídeo técnico
 
-Link do YouTube: preencher após a gravação e publicação como não listado.
+Link do YouTube: (https://youtu.be/UOeWEejFThM)
