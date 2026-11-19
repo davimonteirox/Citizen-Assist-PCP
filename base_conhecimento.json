@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "categoria": "Consultas",
+    "titulo": "Consultar local de votação",
+    "palavras_chave": [
+      "local de votação",
+      "onde votar",
+      "minha seção",
+      "onde eu voto"
+    ],
+    "resposta": "Abra Consultas e escolha Onde votar para conferir o endereço da sua seção.",
+    "documentos": [
+      "Nome completo ou número do título para identificar a inscrição."
+    ],
+    "onde": "Autoatendimento Eleitoral no site do TSE",
+    "fonte": "https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/consulta-titulo-e-local-de-votacao",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 2,
+    "categoria": "Consultas",
+    "titulo": "Recuperar número do título",
+    "palavras_chave": [
+      "número do título",
+      "inscrição eleitoral",
+      "esqueci meu número"
+    ],
+    "resposta": "Em Consultas, escolha Número do título. Quem já usa o e-Título também encontra a inscrição no aplicativo.",
+    "documentos": [
+      "Dados de identificação pedidos no formulário oficial."
+    ],
+    "onde": "Autoatendimento Eleitoral no site do TSE",
+    "fonte": "https://www.tse.jus.br/institucional/corregedoria-geral-eleitoral/sistemas-e-servicos-1/consulta-titulo-e-local-de-votacao",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 3,
+    "categoria": "Consultas",
+    "titulo": "Verificar situação do título",
+    "palavras_chave": [
+      "situação do título",
+      "título regular",
+      "título está regular",
+      "situação eleitoral"
+    ],
+    "resposta": "Selecione a consulta de situação do título para conferir o estado da sua inscrição.",
+    "documentos": [
+      "Número do título, CPF ou nome e data de nascimento."
+    ],
+    "onde": "Autoatendimento Eleitoral no site do TSE",
+    "fonte": "https://www.tse.jus.br/comunicacao/noticias/2026/Abril/eleitor-em-dia-saiba-como-verificar-se-seu-titulo-esta-regular-1",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 4,
+    "categoria": "Certidões",
+    "titulo": "Emitir certidão de quitação eleitoral",
+    "palavras_chave": [
+      "quitação eleitoral",
+      "certidão de quitação",
+      "comprovante de quitação"
+    ],
+    "resposta": "Escolha a certidão de quitação e preencha o formulário para obter o comprovante.",
+    "documentos": [
+      "Nome, título ou CPF, data de nascimento e filiação conforme o cadastro."
+    ],
+    "onde": "Autoatendimento Eleitoral no site do TSE",
+    "fonte": "https://www.tse.jus.br/comunicacao/noticias/2025/Outubro/eleitor-em-dia-saiba-como-emitir-a-certidao-de-quitacao-eleitoral-de-forma-pratica-e-segura",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 5,
+    "categoria": "Certidões",
+    "titulo": "Emitir certidão de crimes eleitorais",
+    "palavras_chave": [
+      "crimes eleitorais",
+      "crime eleitoral",
+      "certidão criminal eleitoral"
+    ],
+    "resposta": "Na área de certidões, selecione a opção referente a crimes eleitorais. O serviço também está disponível em cartório eleitoral.",
+    "documentos": [
+      "Dados de identificação pedidos no formulário oficial."
+    ],
+    "onde": "Autoatendimento Eleitoral no site do TSE",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/servicos/ouvidoria-tse",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 6,
+    "categoria": "Certidões",
+    "titulo": "Emitir certidão negativa de alistamento",
+    "palavras_chave": [
+      "negativa de alistamento",
+      "sem alistamento",
+      "nunca tirei título"
+    ],
+    "resposta": "Procure a certidão negativa de alistamento na área de certidões. Use essa opção quando precisar comprovar que não possui inscrição eleitoral.",
+    "documentos": [
+      "Dados de identificação pedidos no formulário oficial."
+    ],
+    "onde": "Autoatendimento Eleitoral no site do TSE",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 7,
+    "categoria": "Certidões",
+    "titulo": "Consultar certidão de filiação partidária",
+    "palavras_chave": [
+      "filiação partidária",
+      "filiado a partido",
+      "filiação a partido"
+    ],
+    "resposta": "No e-Título, abra as certidões e escolha a de filiação. A emissão pelo aplicativo depende da conferência biométrica bem-sucedida.",
+    "documentos": [
+      "Acesso ao e-Título com biometria conferida."
+    ],
+    "onde": "Aplicativo e-Título",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/certidoes/certidoes",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 8,
+    "categoria": "Serviços do eleitor",
+    "titulo": "Justificar ausência após a eleição",
+    "palavras_chave": [
+      "justificar ausência",
+      "faltei na eleição",
+      "não votei",
+      "justificar meu voto"
+    ],
+    "resposta": "No e-Título, abra a justificativa pós-eleição e anexe a prova do motivo da falta. A Justiça Eleitoral analisa o pedido.",
+    "documentos": [
+      "Comprovante do motivo da ausência em formato digital."
+    ],
+    "onde": "Aplicativo e-Título",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes/2-quais-servicos-voce-encontra-no-e-titulo",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 9,
+    "categoria": "Serviços do eleitor",
+    "titulo": "Emitir declaração de trabalhos eleitorais",
+    "palavras_chave": [
+      "trabalhos eleitorais",
+      "trabalhei na eleição",
+      "comprovante de mesário"
+    ],
+    "resposta": "Se trabalhou nas eleições a partir de 2018, procure a declaração de trabalhos eleitorais no aplicativo e salve o documento.",
+    "documentos": [
+      "Acesso ao seu e-Título."
+    ],
+    "onde": "Aplicativo e-Título",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/e-titulo-perguntas-frequentes/2-quais-servicos-voce-encontra-no-e-titulo",
+    "verificado_em": "2026-11-19"
+  },
+  {
+    "id": 10,
+    "categoria": "Serviços do eleitor",
+    "titulo": "Imprimir segunda via do título",
+    "palavras_chave": [
+      "segunda via",
+      "imprimir título",
+      "perdi meu título",
+      "imprimir meu título"
+    ],
+    "resposta": "No quadro Eleitor, procure a emissão de segunda via. Abra o documento para imprimi-lo.",
+    "documentos": [
+      "Dados de identificação pedidos no formulário oficial."
+    ],
+    "onde": "Autoatendimento Eleitoral no site do TSE",
+    "fonte": "https://www.tse.jus.br/servicos-eleitorais/servicos/ouvidoria-tse",
+    "verificado_em": "2026-11-19"
+  }
+]
